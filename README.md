@@ -1,2 +1,2 @@
 # windows-
-strlen函数的实现
+strcpy函数的实现
